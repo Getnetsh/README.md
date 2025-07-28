@@ -51,8 +51,6 @@
 ---
 
 ## 📊 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Getnetsh&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Getnet's GitHub Stats" width="48%"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Getnetsh&layout=compact&theme=radical&langs_count=4" alt="Top Languages" width="48%"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Getnetsh&theme=radical" alt="GitHub Streak" width="48%"/>
 </div>
