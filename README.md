@@ -2,7 +2,7 @@
 
 ## About Me
 - 🎓 **Master's Student** in AI & Computer Science at University of Calabria, Italy
-- 💻 **Software Engineering Graduate** 
+- 💻 **Software Engineer** & AI Enthusiast 
 - 🌍 Based in **Calabria, Italy**
 - 🚀 Passionate about **Artificial Intelligence** and **Software Development**
 
@@ -44,10 +44,11 @@
 
 ## Featured Projects
 
-- **alx-low_level_programming** - C programming and data structures
-- **alx-system_engineering-devops** - System administration and DevOps
-- **alx-higher_level_programming** - Python and web development
-- **machine-learning-projects** - AI and ML implementations
+- **ai-image-classifier** - Deep learning model for image recognition
+- **nlp-sentiment-analyzer** - Natural language processing for text analysis
+- **data-visualization-dashboard** - Interactive web dashboard with Python
+- **computer-vision-app** - Real-time object detection application
+- **ml-prediction-model** - Machine learning models for data prediction
 
 ## Goals for 2025
 - [ ] Complete Master's thesis
