@@ -1,158 +1,363 @@
-# Hi there, I'm Getnet Shiferaw! 👋
+# <div align="center">🚀 Welcome to Getnet's Digital Universe 🌌</div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Full-Stack+Software+Engineer;ALX+Software+Engineering+Student;Building+Amazing+Solutions;Just+Do+It!" alt="Typing SVG" />
-</div>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Getnetsh&label=Profile%20views&color=36bcf7&style=flat" alt="Getnetsh" />
-  <img src="https://img.shields.io/github/followers/Getnetsh?label=Followers&style=social" alt="GitHub Badge">
-</p>
-
-## 🚀 About Me
-
-🎯 **Full-Stack Software Engineer** in training at **ALX Software Engineering Program**  
-📍 **Based in Addis Ababa, Ethiopia** 🇪🇹  
-💡 Passionate about **problem-solving** and building **innovative solutions**  
-🌟 **"Just Do It"** - My philosophy for tackling challenges  
-🔥 Committed to **continuous learning** and **professional growth**
-
-## 🎓 Learning Journey
-
-Currently mastering the fundamentals of software engineering through the comprehensive ALX program:
-
-- 🏗️ **System Engineering & DevOps**
-- 💻 **Low-Level Programming** (C Language)
-- 🌐 **Web Development** (HTML, CSS, JavaScript)
-- 🖥️ **Backend Development**
-- 📱 **Frontend Development**
-- 🗄️ **Database Management**
-- 🔧 **Version Control & Collaboration**
-
-## ⚡ Technologies & Tools
-
-<div align="center">
-
-### 💻 Programming Languages
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-### 🛠️ Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
-### 🌱 Currently Learning
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-</div>
-
-## 📊 GitHub Statistics
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Getnetsh&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Getnetsh&layout=compact&langs_count=8&theme=tokyonight"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=Getnet%20Shiferaw&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Software%20Engineer%20|%20ALX%20Student%20|%20Problem%20Solver&descAlignY=51&descAlign=62"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Getnetsh&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=1000&height=150&lines=🌟+FULL-STACK+SOFTWARE+ENGINEER+🌟;🎯+ALX+SOFTWARE+ENGINEERING+STUDENT+🎯;💻+BUILDING+THE+FUTURE+WITH+CODE+💻;🚀+JUST+DO+IT!+🚀" alt="Dynamic Typing" />
 </div>
-
-## 🏆 Featured Projects
 
 <div align="center">
-
-### 🌟 ALX Program Projects
-**System Engineering & DevOps** | **Low-Level Programming** | **Web Development**
-
-| Repository | Description | Language |
-|:---:|:---:|:---:|
-| [alx-system_engineering-devops](https://github.com/Getnetsh/alx-system_engineering-devops) | System administration and DevOps concepts | Shell |
-| [alx-low_level_programming](https://github.com/Getnetsh/alx-low_level_programming) | C programming fundamentals and data structures | C |
-| [simple-one](https://github.com/Getnetsh/simple-one) | Introduction project showcasing web basics | HTML |
-| [alx-pre_course](https://github.com/Getnetsh/alx-pre_course) | Pre-course preparation and setup | Shell |
-
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </div>
-
-## 💼 Professional Development
 
 <div align="center">
-
-### 🎯 Learning Progress
-**C Programming** ![Progress](https://progress-bar.dev/75?title=75%25&width=200&color=00599C)  
-**Shell Scripting** ![Progress](https://progress-bar.dev/70?title=70%25&width=200&color=121011)  
-**HTML/CSS** ![Progress](https://progress-bar.dev/80?title=80%25&width=200&color=E34F26)  
-**Git & GitHub** ![Progress](https://progress-bar.dev/85?title=85%25&width=200&color=F05032)  
-**Linux/Ubuntu** ![Progress](https://progress-bar.dev/65?title=65%25&width=200&color=FCC624)
-
-### 📈 Goals for 2025
-- 🎓 **Complete ALX Software Engineering Program**
-- 🚀 **Build 5+ Full-Stack Projects**
-- 💼 **Land First Software Engineering Role**
-- 🤝 **Contribute to Open Source Projects**
-- 📝 **Start Technical Blogging**
-
+  <img src="https://komarev.com/ghpvc/?username=Getnetsh&label=PROFILE+VIEWS&color=blueviolet&style=for-the-badge&labelColor=black" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/Getnetsh?label=FOLLOWERS&style=for-the-badge&color=blue&labelColor=black" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/Getnetsh?label=STARS&style=for-the-badge&color=yellow&labelColor=black" alt="Stars" />
 </div>
 
-## 🌍 Community & Collaboration
+## <div align="center">🌟 DIGITAL PERSONA 🌟</div>
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="50%">
+        <img src="https://github.com/Getnetsh.png" width="250" style="border-radius: 50%; border: 5px solid #00D9FF; box-shadow: 0 0 20px #00D9FF;" alt="Getnet Profile"/>
+        <br><br>
+        <img src="https://img.shields.io/badge/🌍_Location-Addis_Ababa,_Ethiopia-00D9FF?style=for-the-badge&labelColor=black" />
+        <br>
+        <img src="https://img.shields.io/badge/💼_Status-ALX_Student-success?style=for-the-badge&labelColor=black" />
+        <br>
+        <img src="https://img.shields.io/badge/🎯_Focus-Full--Stack_Development-orange?style=for-the-badge&labelColor=black" />
+      </td>
+      <td align="center" width="50%">
+        <h2>🚀 MISSION STATEMENT</h2>
+        <p><em>"Transforming ideas into elegant code solutions, one commit at a time"</em></p>
+        <br>
+        <h3>📊 CURRENT STATS</h3>
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Getnetsh&theme=radical" width="100%" />
+      </td>
+    </tr>
+  </table>
+</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
+
+## <div align="center">🎓 EDUCATIONAL JOURNEY & EXPERTISE MATRIX 🎓</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Getnetsh&custom_title=Getnet's%20Learning%20Journey&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&hide_border=true&theme=react-dark" width="100%" />
+</div>
+
+### 🏆 ALX SOFTWARE ENGINEERING MASTERY PATH
+
+<div align="center">
+  <table>
+    <tr>
+      <th>🔥 CORE DOMAINS</th>
+      <th>📈 PROFICIENCY</th>
+      <th>🎯 STATUS</th>
+      <th>🏅 ACHIEVEMENTS</th>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://img.shields.io/badge/C_Programming-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+      </td>
+      <td align="center">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=microsoft&repo=vscode&bg_color=0D1117&title_color=00D9FF&text_color=FFF&icon_color=00D9FF&border_color=00D9FF" width="200"/>
+        <br>
+        <progress value="85" max="100" style="width:200px;height:20px;"></progress>
+        <br><strong>85%</strong>
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/🔥_ADVANCED-success?style=for-the-badge&labelColor=black"/>
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/Data_Structures-✅-brightgreen?style=for-the-badge&labelColor=black"/>
+        <br>
+        <img src="https://img.shields.io/badge/Algorithms-✅-brightgreen?style=for-the-badge&labelColor=black"/>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://img.shields.io/badge/System_Engineering-121011?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
+      </td>
+      <td align="center">
+        <progress value="75" max="100" style="width:200px;height:20px;"></progress>
+        <br><strong>75%</strong>
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/🚀_PROFICIENT-blue?style=for-the-badge&labelColor=black"/>
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/DevOps_Basics-✅-brightgreen?style=for-the-badge&labelColor=black"/>
+        <br>
+        <img src="https://img.shields.io/badge/Linux_Mastery-✅-brightgreen?style=for-the-badge&labelColor=black"/>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://img.shields.io/badge/Web_Development-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+      </td>
+      <td align="center">
+        <progress value="70" max="100" style="width:200px;height:20px;"></progress>
+        <br><strong>70%</strong>
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/⚡_INTERMEDIATE-orange?style=for-the-badge&labelColor=black"/>
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/Frontend_Basics-✅-brightgreen?style=for-the-badge&labelColor=black"/>
+        <br>
+        <img src="https://img.shields.io/badge/Responsive_Design-🔄-yellow?style=for-the-badge&labelColor=black"/>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
+
+## <div align="center">⚡ TECH ARSENAL & WEAPONS OF CHOICE ⚡</div>
 
 <div align="center">
   
-### 🤝 ALX Cohort Member
-*Learning alongside amazing peers in the ALX Software Engineering program*
+### 🔮 PROGRAMMING LANGUAGES
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Getnetsh&layout=compact&theme=radical&bg_color=0D1117&title_color=00D9FF&text_color=FFF&icon_color=00D9FF&border_color=00D9FF&langs_count=10" />
+</p>
 
-### 🇪🇹 Ethiopian Tech Community
-*Contributing to the growth of technology in Ethiopia*
+### 💻 CORE TECHNOLOGIES
+<p>
+  <img src="https://skillicons.dev/icons?i=c,bash,html,css,js,git,github,linux,ubuntu,vscode&theme=dark" />
+</p>
+
+### 🌱 NEXT-LEVEL ARSENAL (Learning)
+<p>
+  <img src="https://skillicons.dev/icons?i=python,react,nodejs,mysql,docker,aws,firebase,mongodb&theme=dark" />
+</p>
+
+### 🛠️ DEVELOPMENT ENVIRONMENT
+<p>
+  <img src="https://img.shields.io/badge/OS-Ubuntu%2020.04-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Editor-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Terminal-Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Version%20Control-Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+</p>
 
 </div>
 
-## 📫 Let's Connect!
-
 <div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/getnet-shiferaw/)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/getnet.shiferaw.716)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Getnetsh)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:getnet.shiferaw@example.com)
-
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </div>
 
-## 💡 Philosophy
+## <div align="center">📊 GITHUB ANALYTICS & PERFORMANCE METRICS 📊</div>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Motto-Just%20Do%20It!-36BCF7?style=for-the-badge&logo=nike&logoColor=white" />
+  <table>
+    <tr>
+      <td width="50%">
+        <img src="https://github-readme-stats.vercel.app/api?username=Getnetsh&show_icons=true&theme=radical&bg_color=0D1117&title_color=00D9FF&text_color=FFF&icon_color=00D9FF&border_color=00D9FF&include_all_commits=true&count_private=true" width="100%" />
+      </td>
+      <td width="50%">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Getnetsh&theme=radical&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakNum=FFF&sideNums=FFF&currStreakLabel=00D9FF&sideLabels=00D9FF&dates=FFF" width="100%" />
+      </td>
+    </tr>
+  </table>
 </div>
 
-> *"The best way to learn programming is by programming. Every line of code is a step forward in the journey of becoming a great software engineer."*
-
-## 🔥 Current Focus
-
 <div align="center">
-  <img src="https://img.shields.io/badge/Focus-C%20Programming-00599C?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/Learning-System%20Engineering-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" />
-  <img src="https://img.shields.io/badge/Building-Web%20Projects-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Getnetsh&theme=radical&utcOffset=3" width="31%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Getnetsh&theme=radical" width="31%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Getnetsh&theme=radical" width="31%" />
 </div>
 
-## 📈 Activity Graph
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
+
+## <div align="center">🏆 PROJECT SHOWCASE & DIGITAL PORTFOLIO 🏆</div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Getnetsh&theme=tokyo-night&bg_color=1a1b27&line=36bcf7&point=70a5fd&color=ffffff&area_color=36bcf7&area=true&hide_border=true" alt="GitHub Activity Graph" />
+  <h3>🌟 FEATURED REPOSITORIES</h3>
+  
+  <table>
+    <tr>
+      <td width="50%">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Getnetsh&repo=alx-low_level_programming&theme=radical&bg_color=0D1117&title_color=00D9FF&text_color=FFF&icon_color=00D9FF&border_color=00D9FF" />
+      </td>
+      <td width="50%">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Getnetsh&repo=alx-system_engineering-devops&theme=radical&bg_color=0D1117&title_color=00D9FF&text_color=FFF&icon_color=00D9FF&border_color=00D9FF" />
+      </td>
+    </tr>
+    <tr>
+      <td width="50%">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Getnetsh&repo=simple-one&theme=radical&bg_color=0D1117&title_color=00D9FF&text_color=FFF&icon_color=00D9FF&border_color=00D9FF" />
+      </td>
+      <td width="50%">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Getnetsh&repo=alx-pre_course&theme=radical&bg_color=0D1117&title_color=00D9FF&text_color=FFF&icon_color=00D9FF&border_color=00D9FF" />
+      </td>
+    </tr>
+  </table>
+</div>
+
+### 🎯 PROJECT IMPACT MATRIX
+
+<div align="center">
+  <table>
+    <tr>
+      <th>🚀 PROJECT</th>
+      <th>💻 TECHNOLOGY</th>
+      <th>🎯 COMPLEXITY</th>
+      <th>📈 LEARNING OUTCOME</th>
+      <th>⭐ STATUS</th>
+    </tr>
+    <tr>
+      <td><strong>C Programming Mastery</strong></td>
+      <td><img src="https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c&logoColor=white"/></td>
+      <td>🔥🔥🔥🔥⚪</td>
+      <td>Data Structures & Algorithms</td>
+      <td><img src="https://img.shields.io/badge/-ACTIVE-success?style=flat-square"/></td>
+    </tr>
+    <tr>
+      <td><strong>System Engineering</strong></td>
+      <td><img src="https://img.shields.io/badge/-Bash-121011?style=flat-square&logo=gnu-bash&logoColor=white"/></td>
+      <td>🔥🔥🔥🔥⚪</td>
+      <td>DevOps & System Administration</td>
+      <td><img src="https://img.shields.io/badge/-IN_PROGRESS-orange?style=flat-square"/></td>
+    </tr>
+    <tr>
+      <td><strong>Web Development</strong></td>
+      <td><img src="https://img.shields.io/badge/-HTML/CSS-E34F26?style=flat-square&logo=html5&logoColor=white"/></td>
+      <td>🔥🔥🔥⚪⚪</td>
+      <td>Frontend Development Basics</td>
+      <td><img src="https://img.shields.io/badge/-COMPLETED-brightgreen?style=flat-square"/></td>
+    </tr>
+  </table>
+</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
+
+## <div align="center">🎯 2025 ROADMAP & FUTURE VISION 🎯</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=github&repo=roadmap&theme=radical&bg_color=0D1117&title_color=00D9FF&text_color=FFF&icon_color=00D9FF&border_color=00D9FF" width="400"/>
+</div>
+
+### 🚀 QUARTERLY OBJECTIVES
+
+<div align="center">
+  <table>
+    <tr>
+      <th>📅 QUARTER</th>
+      <th>🎯 OBJECTIVES</th>
+      <th>💡 SKILLS TO MASTER</th>
+      <th>📊 PROGRESS</th>
+    </tr>
+    <tr>
+      <td><strong>Q1 2025</strong></td>
+      <td>Complete ALX Core Curriculum</td>
+      <td>Advanced C, Python Basics</td>
+      <td><progress value="60" max="100"></progress> 60%</td>
+    </tr>
+    <tr>
+      <td><strong>Q2 2025</strong></td>
+      <td>Full-Stack Web Development</td>
+      <td>React, Node.js, MongoDB</td>
+      <td><progress value="20" max="100"></progress> 20%</td>
+    </tr>
+    <tr>
+      <td><strong>Q3 2025</strong></td>
+      <td>Portfolio & Job Applications</td>
+      <td>System Design, Algorithms</td>
+      <td><progress value="10" max="100"></progress> 10%</td>
+    </tr>
+    <tr>
+      <td><strong>Q4 2025</strong></td>
+      <td>Professional Software Engineer</td>
+      <td>Leadership, Mentoring</td>
+      <td><progress value="5" max="100"></progress> 5%</td>
+    </tr>
+  </table>
+</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
+
+## <div align="center">🌐 CONNECT & COLLABORATE 🌐</div>
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="33%">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" width="100" height="100"/>
+        <br>
+        <a href="https://www.linkedin.com/in/getnet-shiferaw/">
+          <img src="https://img.shields.io/badge/LinkedIn-Professional_Network-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+        </a>
+      </td>
+      <td align="center" width="33%">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/facebook/facebook-original.svg" width="100" height="100"/>
+        <br>
+        <a href="https://www.facebook.com/getnet.shiferaw.716">
+          <img src="https://img.shields.io/badge/Facebook-Social_Connection-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+        </a>
+      </td>
+      <td align="center" width="33%">
+        <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="100" height="100"/>
+        <br>
+        <a href="https://github.com/Getnetsh">
+          <img src="https://img.shields.io/badge/GitHub-Code_Repository-100000?style=for-the-badge&logo=github&logoColor=white"/>
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
+
+### 💌 GET IN TOUCH
+
+<div align="center">
+  <img src="https://img.shields.io/badge/📧_Email-getnet.shiferaw%40example.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <br><br>
+  <img src="https://img.shields.io/badge/🤝_Open_to_Collaboration-YES-brightgreen?style=for-the-badge&labelColor=black"/>
+  <img src="https://img.shields.io/badge/💼_Available_for_Opportunities-YES-blue?style=for-the-badge&labelColor=black"/>
+  <img src="https://img.shields.io/badge/🎯_Seeking_Mentorship-YES-orange?style=for-the-badge&labelColor=black"/>
+</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
+
+## <div align="center">⚡ LIVE ACTIVITY FEED ⚡</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Getnetsh&custom_title=Getnet's%20Coding%20Journey%20-%20Live%20Activity&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&hide_border=true&theme=react-dark" width="100%" />
+</div>
+
+<div align="center">
+  <h3>🔥 CURRENT STREAK & ACHIEVEMENTS</h3>
+  <img src="https://github-profile-trophy.vercel.app/?username=Getnetsh&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=2&column=4" />
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,21&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=16&fontColor=fff&animation=twinkling&fontAlignY=75"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=footer&text=Thank%20You%20for%20Visiting!&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=70&desc=Let's%20Build%20Something%20Amazing%20Together&descAlignY=85&descAlign=62"/>
 </div>
 
 <div align="center">
-  <i>"Every expert was once a beginner. Every pro was once an amateur. Every icon was once an unknown." - Robin Sharma</i>
-</div># ReadMe.md
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=20&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&height=50&lines=🌟+JUST+DO+IT!+🌟;💫+Every+line+of+code+is+a+step+forward+💫;🚀+The+journey+of+1000+apps+begins+with+one+commit+🚀" alt="Footer Typing" />
+</div>
+
+<div align="center">
+  <h4><em>"In the world of code, every bug is a puzzle waiting to be solved, and every solution is a masterpiece waiting to be created."</em></h4>
+  <p><strong>- Getnet Shiferaw, Software Engineer in the Making 🚀</strong></p>
+</div>
