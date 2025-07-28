@@ -58,7 +58,7 @@
 ---
 
 ## 🌟 Featured Projects
-| Project | Description | Tech Stack | Link |
+| Project | Description | Tech Stack
 |---------|-------------|------------|------|
 | 🖼️ **AI Image Classifier** | Deep learning model for image recognition | TensorFlow, Python 
 | 📜 **NLP Sentiment Analyzer** | Natural language processing for text analysis | PyTorch, NLTK 
