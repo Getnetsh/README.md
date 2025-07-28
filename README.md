@@ -60,12 +60,11 @@
 ## 🌟 Featured Projects
 | Project | Description | Tech Stack | Link |
 |---------|-------------|------------|------|
-| 🖼️ **AI Image Classifier** | Deep learning model for image recognition | TensorFlow, Python | [View Repo](https://github.com/Getnetsh/ai-image-classifier) |
-| 📜 **NLP Sentiment Analyzer** | Natural language processing for text analysis | PyTorch, NLTK | [View Repo](https://github.com/Getnetsh/nlp-sentiment-analyzer) |
-| 📈 **Data Visualization Dashboard** | Interactive web dashboard | Python, Dash, Plotly | [View Repo](https://github.com/Getnetsh/data-visualization-dashboard) |
-| 📷 **Computer Vision App** | Real-time object detection | OpenCV, TensorFlow | [View Repo](https://github.com/Getnetsh/computer-vision-app) |
-| 🔍 **ML Prediction Model** | Predictive machine learning models | Scikit-learn, Pandas | [View Repo](https://github.com/Getnetsh/ml-prediction-model) |
-
+| 🖼️ **AI Image Classifier** | Deep learning model for image recognition | TensorFlow, Python 
+| 📜 **NLP Sentiment Analyzer** | Natural language processing for text analysis | PyTorch, NLTK 
+| 📈 **Data Visualization Dashboard** | Interactive web dashboard | Python, Dash, Plotly 
+| 📷 **Computer Vision App** | Real-time object detection | OpenCV, TensorFlow 
+| 🔍 **ML Prediction Model** | Predictive machine learning models | Scikit-learn, Pandas 
 ---
 
 ## 🎯 Goals for 2025
