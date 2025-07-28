@@ -2,7 +2,7 @@
 
 ## About Me
 - 🎓 **Master's Student** in AI & Computer Science at University of Calabria, Italy
-- 💻 **ALX Software Engineering Graduate** 
+- 💻 **Software Engineering Graduate** 
 - 🌍 Based in **Calabria, Italy**
 - 🚀 Passionate about **Artificial Intelligence** and **Software Development**
 
